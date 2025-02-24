@@ -34,6 +34,6 @@ To get started with this tutorial, follow these steps:
 
 (My Trained Dataset link : https://drive.google.com/file/d/1YSu5jPhpyiM1-KwSxO4PUA1HDRx7g7Or/view?usp=sharing)
 
-3. Training the dataset with framework and model.
+3. Training the dataset using Google Colab.
 
 4. Detecting object using the trained dataset.
