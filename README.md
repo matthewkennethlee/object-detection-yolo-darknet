@@ -28,12 +28,16 @@ To get started with this tutorial, follow these steps:
 
 # Usage for ipynb file
 
-1. For generating dataset from application.
+1. For generating the dataset from application, in this case from the game.
 
-2. Shuffling and labeling dataset.
-
-(My Trained Dataset link : https://drive.google.com/file/d/1YSu5jPhpyiM1-KwSxO4PUA1HDRx7g7Or/view?usp=sharing)
+2. Shuffling and Labeling dataset.
 
 3. Training the dataset using Google Colab.
 
-4. Detecting object using the trained dataset.
+   (My Trained Dataset link : https://drive.google.com/file/d/1YSu5jPhpyiM1-KwSxO4PUA1HDRx7g7Or/view?usp=sharing)
+
+5. Detecting object in game using the trained dataset.
+
+   (The Game Link : https://drive.google.com/drive/folders/1ugDcAuXekzkWBXO4yGv3VuaottF6aPnp?usp=sharing)
+
+
