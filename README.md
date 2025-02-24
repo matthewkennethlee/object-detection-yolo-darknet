@@ -1,4 +1,4 @@
-# Object Detection Using YOLO Tutorial
+# Object Detection Using YOLO
 
 With this project, you'll obtain a Python code that can detect objects, providing their coordinates and class in a list format, similar to the example below:
 
